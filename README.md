@@ -1,0 +1,2 @@
+# galTranslator
+基于Easyocr以及chatgpt对屏幕区域进行识别，从而将日文生肉相对更流畅的翻译成中文
